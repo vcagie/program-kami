@@ -1,0 +1,44 @@
+{
+  "introduction": {
+    "title": "Bangganya Menjadi Insan Astra!",
+    "desc": "Insan Astra adalah talenta terbaik bangsa, yang terus berkolaborasi untuk menjadi yang terbaik untuk bangsa dan negara",
+    "image": "https://expat-03cdkbceglbjg.stackpathdns.com/images/upload/2/2/7/0/1539681590-it-professionals-news_item_slider.jpg"
+  },
+  "program": [
+    {
+      "title": "Astra 1st Program",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "primary": "http://industri.ub.ac.id/id/wp-content/uploads/2015/05/img056-copy.png",
+      "secondary": [
+        "https://www.findaprofessional.co.za/_cp/directory-of-professionals.jpg",
+        "https://www.nspconsultants.net/wp-content/uploads/2018/12/professional-mentorship.jpg"
+      ]
+    },
+    {
+      "title": "Astra Career Meetup",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "primary": "http://seputarkampus.com/wp-content/uploads/2014/03/Astra1st-2014-l-SeputarKampus.png",
+      "secondary": [
+        "https://www.findaprofessional.co.za/_cp/directory-of-professionals.jpg",
+        "https://www.nspconsultants.net/wp-content/uploads/2018/12/professional-mentorship.jpg"
+      ]
+    },
+    {
+      "title": "Astra Virtual Job Fair",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "primary": "http://www.unika.ac.id/sscc/wp-content/uploads/sites/2/2016/09/img901.jpg",
+      "secondary": [
+        "https://www.findaprofessional.co.za/_cp/directory-of-professionals.jpg",
+        "https://www.nspconsultants.net/wp-content/uploads/2018/12/professional-mentorship.jpg"
+      ]
+    },
+    {
+      "title": "Astra Campus Job Fair",
+      "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "primary": "http://www.uajy.ac.id/lowongan/wp-content/uploads/sites/2/2017/12/PT-Astra-International-Tbk-Honda-lowker.jpg",
+      "secondary": [
+        "https://www.findaprofessional.co.za/_cp/directory-of-professionals.jpg",
+        "https://www.nspconsultants.net/wp-content/uploads/2018/12/professional-mentorship.jpg"
+      ]
+  ]
+}
